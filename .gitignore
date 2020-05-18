@@ -1,0 +1,9 @@
+# nodejs
+node_modules
+package-lock.json
+
+# enviroment variables
+*.env
+
+# Visual Studio Code
+.vscode
